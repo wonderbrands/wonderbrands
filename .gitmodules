@@ -1,0 +1,4 @@
+[submodule "yuju"]
+	path = yuju
+	url = git@github.com:wonderbrands/yuju.git
+	branch = 15.0
