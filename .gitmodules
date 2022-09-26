@@ -2,3 +2,6 @@
 	path = yuju
 	url = git@github.com:wonderbrands/yuju.git
 	branch = 15.0
+[submodule "wb_product_import"]
+	path = wb_product_import
+	url = https://github.com/wonderbrands/wb_product_import.git
