@@ -8,3 +8,9 @@
 [submodule "garazd_product_label"]
 	path = garazd_product_label
 	url = https://github.com/wonderbrands/garazd_product_label.git
+[submodule "wb_additional_functions"]
+	path = wb_additional_functions
+	url = https://github.com/wonderbrands/wb_additional_functions.git
+[submodule "wb_development"]
+	path = wb_development
+	url = https://github.com/wonderbrands/wb_development.git
