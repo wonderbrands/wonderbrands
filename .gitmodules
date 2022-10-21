@@ -5,9 +5,6 @@
 [submodule "wb_product_import"]
 	path = wb_product_import
 	url = https://github.com/wonderbrands/wb_product_import.git
-[submodule "wb_development"]
-	path = wb_development
-	url = https://github.com/wonderbrands/wb_development.git
 [submodule "wb_additional_functions"]
 	path = wb_additional_functions
 	url = https://github.com/wonderbrands/wb_additional_functions.git
