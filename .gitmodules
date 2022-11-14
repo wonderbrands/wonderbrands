@@ -14,3 +14,6 @@
 [submodule "wb_development"]
 	path = wb_development
 	url = https://github.com/wonderbrands/wb_development.git
+[submodule "sh_purchase_price_history"]
+	path = sh_purchase_price_history
+	url = https://github.com/wonderbrands/sh_purchase_price_history.git
