@@ -17,3 +17,6 @@
 [submodule "sh_purchase_price_history"]
 	path = sh_purchase_price_history
 	url = https://github.com/wonderbrands/sh_purchase_price_history.git
+[submodule "l10n_mx_autoinvoice"]
+	path = l10n_mx_autoinvoice
+	url = https://github.com/wonderbrands/l10n_mx_autoinvoice.git
