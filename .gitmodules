@@ -20,3 +20,8 @@
 [submodule "q_l10n_mx_autoinvoice"]
 	path = q_l10n_mx_autoinvoice
 	url = git@github.com:wonderbrands/q_l10n_mx_autoinvoice.git
+
+[submodule "no_negative_stock"]
+	path = no_negative_stock
+	url = git@github.com:wonderbrands/no_negative_stock.git
+	branch = main
