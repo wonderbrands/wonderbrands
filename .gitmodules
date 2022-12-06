@@ -14,3 +14,7 @@
 [submodule "wb_development"]
 	path = wb_development
 	url = https://github.com/wonderbrands/wb_development.git
+[submodule "q_l10n_mx_autoinvoice"]
+	path = q_l10n_mx_autoinvoice
+	url = git@github.com:wonderbrands/q_l10n_mx_autoinvoice.git
+	branch = 15.0
