@@ -18,3 +18,8 @@
 	path = q_l10n_mx_autoinvoice
 	url = git@github.com:wonderbrands/q_l10n_mx_autoinvoice.git
 	branch = 15.0
+
+[submodule "sh_landed_cost_cancel"]
+	path = sh_landed_cost_cancel
+	url = git@github.com:wonderbrands/sh_landed_cost_cancel.git
+	branch = 15.0
