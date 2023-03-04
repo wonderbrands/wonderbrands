@@ -23,3 +23,6 @@
 	path = sh_landed_cost_cancel
 	url = git@github.com:wonderbrands/sh_landed_cost_cancel.git
 	branch = 15.0
+[submodule "setu_inventory_count_management"]
+	path = setu_inventory_count_management
+	url = git@github.com:wonderbrands/setu_inventory_count_management.git
