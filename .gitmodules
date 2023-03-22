@@ -26,3 +26,8 @@
 [submodule "setu_inventory_count_management"]
 	path = setu_inventory_count_management
 	url = git@github.com:wonderbrands/setu_inventory_count_management.git
+
+[submodule "bf_catalog"]
+	path = bf_catalog
+	url = git@github.com:wonderbrands/bf_catalog.git
+	branch = 15.0
