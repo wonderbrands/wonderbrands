@@ -31,3 +31,8 @@
 	path = bf_catalog
 	url = git@github.com:wonderbrands/bf_catalog.git
 	branch = 15.0
+
+[submodule "printnode_base"]
+	path = printnode_base
+	url = git@github.com:wonderbrands/printnode_base.git
+	branch = 15.0SRPP
