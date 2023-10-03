@@ -36,3 +36,8 @@
 	path = printnode_base
 	url = git@github.com:wonderbrands/printnode_base.git
 	branch = 15.0SRPP
+
+[submodule "wb_prio_picking"]
+	path = wb_prio_picking
+	url = git@github.com:wonderbrands/wb_prio_picking.git
+	branch = 15.0SR
