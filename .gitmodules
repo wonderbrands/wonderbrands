@@ -41,3 +41,8 @@
 	path = wb_prio_picking
 	url = git@github.com:wonderbrands/wb_prio_picking.git
 	branch = 15.0SR
+
+[submodule "bi_pos_default_customer"]
+	path = bi_pos_default_customer
+	url = git@github.com:wonderbrands/bi_pos_default_customer.git
+	branch = main
