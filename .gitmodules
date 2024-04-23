@@ -51,3 +51,8 @@
 	path = bi_pos_restrict_zero_qty
 	url = git@github.com:wonderbrands/bi_pos_restrict_zero_qty.git
 	branch = correction-of-negatives
+
+[submodule "wonderbrands/wb_SLA_module"]
+	path = wonderbrands/wb_SLA_module
+	url = git@github.com:wonderbrands/wb_SLA_module.git
+	branch = main
