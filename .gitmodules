@@ -58,3 +58,7 @@
 	path = garazd_product_label_pro
 	url = git@github.com:wonderbrands/garazd_product_label_pro.git
 	branch = main
+[submodule "auditlog"]
+	path = auditlog
+	url = git@github.com:wonderbrands/auditlog.git
+	branch = 15.0
