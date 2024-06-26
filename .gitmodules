@@ -53,3 +53,7 @@
 	path = wonderbrands/wb_SLA_module
 	url = git@github.com:wonderbrands/wb_SLA_module.git
 	branch = main
+[submodule "garazd_product_label_pro"]
+	path = garazd_product_label_pro
+	url = git@github.com:wonderbrands/garazd_product_label_pro.git
+	branch = main
