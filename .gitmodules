@@ -57,3 +57,8 @@
 	path = garazd_product_label_pro
 	url = git@github.com:wonderbrands/garazd_product_label_pro.git
 	branch = main
+
+[submodule "sh_user_audit"]
+	path = sh_user_audit
+	url = git@github.com:wonderbrands/sh_user_audit.git
+	branch = main
