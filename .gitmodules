@@ -62,3 +62,8 @@
 	path = sh_user_audit
 	url = git@github.com:wonderbrands/sh_user_audit.git
 	branch = main
+
+[submodule "res_partner_extend"]
+	path = res_partner_extend
+	url = git@github.com:wonderbrands/res_partner_extend.git
+	branch = main
