@@ -67,3 +67,8 @@
 	path = res_partner_extend
 	url = git@github.com:wonderbrands/res_partner_extend.git
 	branch = main
+
+[submodule "wms_integrator_module"]
+	path = wms_integrator_module
+	url = git@github.com:wonderbrands/wms_integrator_module.git
+	branch = 15.0
