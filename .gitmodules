@@ -72,3 +72,8 @@
 	path = wms_integrator_module
 	url = git@github.com:wonderbrands/wms_integrator_module.git
 	branch = 15.0
+
+[submodule "wb_shipping_routing_system"]
+	path = wb_shipping_routing_system
+	url = git@github.com:wonderbrands/wb_shipping_routing_system.git
+	branch = main
