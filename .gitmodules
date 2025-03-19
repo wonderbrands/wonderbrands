@@ -4,6 +4,6 @@
 	branch = 18.0
 
 [submodule "WB_data_product"]
-	path = WB_data_product.git
+	path = WB_data_product
 	url = git@github.com:wonderbrands/WB_data_product.git
 	branch = 18.0
