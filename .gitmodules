@@ -14,3 +14,7 @@
 	path = WB_data_stock
 	url = git@github.com:wonderbrands/WB_data_stock.git
 	branch = 18.0
+[submodule "yuju"]
+	path = yuju
+	url = git@github.com:wonderbrands/yuju.git
+	branch = 18.0
