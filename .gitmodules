@@ -1,4 +1,4 @@
 [submodule "WB_data_res_partner"]
-	path = .
+	path = WB_data_res_partner
 	url = git@github.com:wonderbrands/WB_data_res_partner.git
 	branch = 18.0
