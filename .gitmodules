@@ -2,8 +2,15 @@
 	path = WB_data_res_partner
 	url = git@github.com:wonderbrands/WB_data_res_partner.git
 	branch = 18.0
-
 [submodule "WB_data_product"]
 	path = WB_data_product
 	url = git@github.com:wonderbrands/WB_data_product.git
+	branch = 18.0
+[submodule "WB_data_sale_order"]
+	path = WB_data_sale_order
+	url = git@github.com:wonderbrands/WB_data_sale_order.git
+	branch = 18.0
+[submodule "WB_data_stock"]
+	path = WB_data_stock
+	url = git@github.com:wonderbrands/WB_data_stock.git
 	branch = 18.0
