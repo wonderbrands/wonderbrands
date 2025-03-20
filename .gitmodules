@@ -18,3 +18,11 @@
 	path = yuju
 	url = git@github.com:wonderbrands/yuju.git
 	branch = 18.0
+[submodule "bi_pos_restrict_zero_qty"]
+	path = bi_pos_restrict_zero_qty
+	url = git@github.com:wonderbrands/bi_pos_restrict_zero_qty.git
+	branch = 18.0
+[submodule "bi_pos_default_customer"]
+	path = bi_pos_default_customer
+	url = git@github.com:wonderbrands/bi_pos_default_customer.git
+	branch = 18.0
