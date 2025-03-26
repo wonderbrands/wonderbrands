@@ -26,3 +26,30 @@
 	path = bi_pos_default_customer
 	url = git@github.com:wonderbrands/bi_pos_default_customer.git
 	branch = 18.0
+[submodule "WB_data_purchase"]
+	path = WB_data_purchase
+	url = git@github.com:wonderbrands/WB_data_purchase.git
+	branch = 18.0
+[submodule "wb_product_import"]
+	path = wb_product_import
+	url = git@github.com:wonderbrands/wb_product_import.git
+	branch = 18.0
+[submodule "wms_integrator_module"]
+	path = wms_integrator_module
+	url = git@github.com:wonderbrands/wms_integrator_module.git
+	branch = 18.0
+[submodule "wb_prio_picking"]
+	path = wb_prio_picking
+	url = git@github.com:wonderbrands/wb_prio_picking.git
+	branch = 18.0
+[submodule "wb_SLA_module"]
+	path = wb_SLA_module
+	url = git@github.com:wonderbrands/wb_SLA_module.git
+	branch = 18.0
+[submodule "WB_data_picking_label"]
+	path = WB_data_picking_label
+	url = git@github.com:wonderbrands/WB_data_picking_label.git
+	branch = 18.0
+[submodule "WB_data_pre_picking"]
+	path = WB_data_pre_picking
+	url = git@github.com:wonderbrands/WB_data_pre_picking.git
