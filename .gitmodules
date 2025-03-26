@@ -53,3 +53,6 @@
 [submodule "WB_data_pre_picking"]
 	path = WB_data_pre_picking
 	url = git@github.com:wonderbrands/WB_data_pre_picking.git
+[submodule "WB_data_cyclic_count"]
+	path = WB_data_cyclic_count
+	url = git@github.com:wonderbrands/WB_data_cyclic_count.git
