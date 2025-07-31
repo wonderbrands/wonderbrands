@@ -77,3 +77,7 @@
 	path = wb_shipping_routing_system
 	url = git@github.com:wonderbrands/wb_shipping_routing_system.git
 	branch = main
+[submodule "wb_block_duplicate"]
+	path = wb_block_duplicate
+	url = git@github.com:wonderbrands/wb_block_duplicate.git
+	branch = main
