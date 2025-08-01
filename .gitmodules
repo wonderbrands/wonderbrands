@@ -81,3 +81,6 @@
 	path = wb_block_duplicate
 	url = git@github.com:wonderbrands/wb_block_duplicate.git
 	branch = main
+[submodule "wb_wms_self_diagnostic_tool"]
+	path = wb_wms_self_diagnostic_tool
+	url = git@github.com:wonderbrands/wb_wms_self_diagnostic_tool.git
