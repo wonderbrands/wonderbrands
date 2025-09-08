@@ -81,3 +81,6 @@
 	path = wb_block_duplicate
 	url = git@github.com:wonderbrands/wb_block_duplicate.git
 	branch = main
+[submodule "wb_portal_stock_viewer"]
+	path = wb_portal_stock_viewer
+	url = git@github.com:wonderbrands/wb_portal_stock_viewer.git
