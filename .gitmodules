@@ -84,3 +84,8 @@
 [submodule "wb_portal_stock_viewer"]
 	path = wb_portal_stock_viewer
 	url = git@github.com:wonderbrands/wb_portal_stock_viewer.git
+
+[submodule "wb_sale_wholesale_approval"]
+	path = wb_sale_wholesale_approval
+	url = git@github.com:wonderbrands/wb_sale_wholesale_approval.git
+	branch = main
