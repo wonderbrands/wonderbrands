@@ -89,3 +89,8 @@
 	path = wb_sale_wholesale_approval
 	url = git@github.com:wonderbrands/wb_sale_wholesale_approval.git
 	branch = main
+
+[submodule "wb_autoinvoice_extend"]
+	path = wb_autoinvoice_extend
+	url = git@github.com:wonderbrands/wb_autoinvoice_extend.git
+	branch = main
