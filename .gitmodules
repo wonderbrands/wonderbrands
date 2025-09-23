@@ -99,3 +99,6 @@
 	path = kits_users_role
 	url = git@github.com:wonderbrands/kits_users_role.git
 	branch = 15.0
+[submodule "wb_data_kafka_producer_engine"]
+	path = wb_data_kafka_producer_engine
+	url = git@github.com:wonderbrands/wb_data_kafka_producer_engine.git
