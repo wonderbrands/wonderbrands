@@ -99,3 +99,8 @@
 	path = kits_users_role
 	url = git@github.com:wonderbrands/kits_users_role.git
 	branch = 15.0
+
+[submodule "account_outstanding_ext"]
+	path = account_outstanding_ext
+	url = git@github.com:wonderbrands/account_outstanding_ext.git
+	branch = main
